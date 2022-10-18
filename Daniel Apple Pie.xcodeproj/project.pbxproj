@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DC59190B28FF202A00B06E62 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC59190A28FF202A00B06E62 /* Game.swift */; };
 		DCE6606028FDA8CE001D2751 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE6605F28FDA8CE001D2751 /* AppDelegate.swift */; };
 		DCE6606228FDA8CE001D2751 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE6606128FDA8CE001D2751 /* SceneDelegate.swift */; };
 		DCE6606428FDA8CF001D2751 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE6606328FDA8CF001D2751 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DC59190A28FF202A00B06E62 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		DCE6605C28FDA8CE001D2751 /* Daniel Apple Pie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Daniel Apple Pie.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCE6605F28FDA8CE001D2751 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DCE6606128FDA8CE001D2751 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		DCE6605328FDA8CE001D2751 = {
 			isa = PBXGroup;
 			children = (
+				DC59190A28FF202A00B06E62 /* Game.swift */,
 				DCE6605E28FDA8CE001D2751 /* Daniel Apple Pie */,
 				DCE6605D28FDA8CE001D2751 /* Products */,
 			);
@@ -141,6 +144,7 @@
 				DCE6606428FDA8CF001D2751 /* ViewController.swift in Sources */,
 				DCE6606028FDA8CE001D2751 /* AppDelegate.swift in Sources */,
 				DCE6606228FDA8CE001D2751 /* SceneDelegate.swift in Sources */,
+				DC59190B28FF202A00B06E62 /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
