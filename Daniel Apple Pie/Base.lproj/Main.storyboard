@@ -287,6 +287,7 @@
                     <connections>
                         <outlet property="correctWorldLabel" destination="9Pu-wB-Wlh" id="h9Y-Gk-Nph"/>
                         <outlet property="scoreLabel" destination="DtF-i8-PLb" id="bSO-XN-qaO"/>
+                        <outlet property="treeImageView" destination="q1y-mf-v9T" id="XYc-oU-XCr"/>
                         <outletCollection property="lettterButton" destination="Rgc-6c-98B" collectionClass="NSMutableArray" id="8aj-hg-xbG"/>
                         <outletCollection property="lettterButton" destination="0vT-9Z-wkN" collectionClass="NSMutableArray" id="KFe-CR-d05"/>
                         <outletCollection property="lettterButton" destination="AbK-lq-TZ6" collectionClass="NSMutableArray" id="TYw-iF-yXP"/>
